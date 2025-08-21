@@ -1,0 +1,4 @@
+this is my first github file.
+I am Rajarshi Das.
+I am a student of Chandigarh University
+I am pursuing a course in Computer science Engineering- Data science.
